@@ -2,3 +2,5 @@ WAWAN REVOLUSI
 - konsisten untuk membuat program aplikasi 2 x sebulan
 - Membuat aplikasi untuk pengelolaan registrasi
 - Membuat forum sosialisasi aplikasi
+- Membuat aplikasi yang keren
+- Kolaborasi dengan teman seorang programmer
