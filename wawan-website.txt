@@ -2,5 +2,5 @@ Website-resolusi
 - Konsisten untuk membuat konten website 2x seminggu
 - Membuat platform untuk mengelola website
 - Membuat Forum Diskusi
-- Membuat fitur tampilan
 - Kolaborasi dengan teman programmer
+- Membuat Website berjalan
